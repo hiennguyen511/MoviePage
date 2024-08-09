@@ -1,3 +1,8 @@
+call api in a file ultis.ts
+config typescript in a file index.d.ts define image, env
+useContext with typescript provider and consumer 
+pass value and context suita to value 
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
